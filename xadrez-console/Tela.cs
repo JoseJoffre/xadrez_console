@@ -19,7 +19,7 @@ namespace xadrez_console
                 Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
                 if (partida.xeque)
                 {
-                    Console.WriteLine("Iiiih, tá em xeque visse?");
+                    Console.WriteLine("Meu patrau ou minha patroa, tá em xeque visse?");
                 }
             }
             else
